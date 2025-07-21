@@ -24,18 +24,19 @@ A Machine Learning-powered web application built using **Streamlit** that predic
 - **Training Data**: Real Bengaluru house price dataset
 - **Target Variable**: Price per square foot (converted to Lakhs ₹)
 
----
+## 📁 Project Structure
 
-## 🗂️ Project Structure
-├── app.py # Streamlit app frontend
-├── model.py # Data cleaning & model training script
-├── model.pkl # Serialized RandomForestRegressor model
-├── Bengaluru_House_Data.csv # Raw dataset
-├── requirements.txt # Python dependencies
-├── screenshot.png # UI Screenshot
-└── README.md # Project documentation
-
----
+```
+.
+├── app.py                   # Streamlit frontend
+├── model.py                 # Data processing & model training
+├── model.pkl                # Trained model
+├── Bengaluru_House_Data.csv # Dataset
+├── requirements.txt         # Required Python packages
+├── README.md                # Project documentation
+├── .gitignore               # Files to ignore in version control
+└── screenshot.png           # App screenshot
+```
 
 ## 🛠️ Setup Instructions
 
