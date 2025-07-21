@@ -1,8 +1,5 @@
 # 🏠 Bengaluru House Price Predictor
 
-<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/bd81451e-654b-4bfe-9cbd-f5484e51fde2" />
-
-
 A Machine Learning-powered web application built using **Streamlit** that predicts house prices in **Bengaluru** based on user inputs like area, number of bedrooms, bathrooms, and location. Powered by **Random Forest Regressor**, the app is trained on real-world Bengaluru housing data.
 
 🔗[ **Live App**: [Click to Launch](https://bengaluru-house-price-app.streamlit.app/)
@@ -30,4 +27,88 @@ A Machine Learning-powered web application built using **Streamlit** that predic
 ---
 
 ## 🗂️ Project Structure
+├── app.py # Streamlit app frontend
+├── model.py # Data cleaning & model training script
+├── model.pkl # Serialized RandomForestRegressor model
+├── Bengaluru_House_Data.csv # Raw dataset
+├── requirements.txt # Python dependencies
+├── screenshot.png # UI Screenshot
+└── README.md # Project documentation
+
+---
+
+## 🛠️ Setup Instructions
+
+### Prerequisites
+
+- Python 3.8+
+- pip
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/bengaluru-house-price-app.git
+cd bengaluru-house-price-app
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app locally
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## ☁️ Deploy on Streamlit Cloud
+
+1. Push your project to GitHub
+2. Visit: [https://streamlit.io/cloud](https://streamlit.io/cloud)
+3. Sign in and click “New app”
+4. Connect your repo and branch
+5. Set the main file as `app.py`
+6. Hit “Deploy”
+
+---
+
+## 📝 Sample Prediction
+
+| Area (sqft) | BHK | Bath | Location     | Predicted Price (Lakh ₹) |
+|-------------|-----|------|--------------|---------------------------|
+| 1000        | 2   | 2    | Whitefield   | ₹65.78                    |
+| 1500        | 3   | 2    | HSR Layout   | ₹94.32                    |
+
+---
+
+## 📌 Screenshot
+<img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/6f881189-b207-4ae5-9cca-57864a906399" />
+
+
+
+---
+
+## 🙌 Acknowledgements
+
+- Streamlit for rapid UI development
+- scikit-learn for machine learning
+- Kaggle for providing the dataset
+
+---
+
+## 📨 Contact
+
+Created by **Suraj Iyer**  
+📧 surajiyer0912@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/suraj-iyer-805599266/)
+
+---
+
+
+
+
 
