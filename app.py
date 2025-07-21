@@ -15,7 +15,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # Streamlit config
 st.set_page_config(page_title="Bangalore House Price Predictor", layout="wide")
-st.title("\U0001F3E1 Bangalore House Price Predictor")
+st.title("\U0001F3E1 Bengaluru House Price Predictor")
 
 # Load dataset
 df = pd.read_csv("Bengaluru_House_Data.csv")
