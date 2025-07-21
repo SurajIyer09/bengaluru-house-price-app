@@ -3,7 +3,7 @@
 A Machine Learning-powered web application built using **Streamlit** that predicts house prices in **Bengaluru** based on user inputs like area, number of bedrooms, bathrooms, and location. Powered by **Random Forest Regressor**, the app is trained on real-world Bengaluru housing data.
 
 🔗[ **Live App**: [Click to Launch](https://bengaluru-house-price-app.streamlit.app/)
-🔗 **LinkedIn**: [Suraj Iyer](https://www.linkedin.com/in/suraj-iyer-805599266/)
+🔗 **LinkedIn**: [Suraj Iyer](https://www.linkedin.com/in/surajiyer0912/)
 
 ---
 
@@ -106,7 +106,7 @@ streamlit run app.py
 
 Created by **Suraj Iyer**  
 📧 surajiyer0912@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suraj-iyer-805599266/)
+🔗 [LinkedIn](https://www.linkedin.com/in/surajiyer0912/)
 
 ---
 
