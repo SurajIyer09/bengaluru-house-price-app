@@ -1,10 +1,11 @@
 # 🏠 Bengaluru House Price Predictor
 
-![App Screenshot](screenshot.png)
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/bd81451e-654b-4bfe-9cbd-f5484e51fde2" />
+
 
 A Machine Learning-powered web application built using **Streamlit** that predicts house prices in **Bengaluru** based on user inputs like area, number of bedrooms, bathrooms, and location. Powered by **Random Forest Regressor**, the app is trained on real-world Bengaluru housing data.
 
-🔗 **Live App**: [Click to Launch](https://suraj-iyer-bengaluru-house-price-app.streamlit.app/)  
+🔗[ **Live App**: [Click to Launch](https://bengaluru-house-price-app.streamlit.app/)
 🔗 **LinkedIn**: [Suraj Iyer](https://www.linkedin.com/in/suraj-iyer-805599266/)
 
 ---
