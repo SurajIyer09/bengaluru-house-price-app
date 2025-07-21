@@ -81,13 +81,14 @@ streamlit run app.py
 
 | Area (sqft) | BHK | Bath | Location     | Predicted Price (Lakh ₹) |
 |-------------|-----|------|--------------|---------------------------|
-| 1000        | 2   | 2    | Whitefield   | ₹65.78                    |
-| 1500        | 3   | 2    | HSR Layout   | ₹94.32                    |
+| 1000        | 2   | 2    | Whitefield   | ₹45.82                    |
+|             |     |      |              |                           |
 
 ---
 
 ## 📌 Screenshot
-<img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/6f881189-b207-4ae5-9cca-57864a906399" />
+<img width="1885" height="910" alt="image" src="https://github.com/user-attachments/assets/b263cc17-ba95-41bf-97a0-cd300f5fa449" />
+
 
 
 
